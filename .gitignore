@@ -3,3 +3,8 @@
 ################################################################################
 
 /DemoApp1/.vs/DemoApp1/v15/Server/sqlite3/db.lock
+/DemoApp1/WebApplication1/bin/roslyn/System.ValueTuple.dll
+/DemoApp1/WebApplication1/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/DemoApp1/WebApplication1/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/DemoApp1/Demo2
+/DemoApp1/WebApplication1/bin/roslyn/System.IO.FileSystem.dll
